@@ -16,6 +16,6 @@ The wikis goal is to be informative and up-to-date.
 **This wiki is made for the Better with Aether a port of the Aether 1.02 for BTA. We have no relation to the Aether team or the BTA team.**
 
 ### Links to the Mod
-[Better with Aether Wiki](https://better-with-aether-wiki.readthedocs.io/en/latest/)
-[Modrinth](https://modrinth.com/mod/better-with-aether-bta), convenient way to get the mod and all its dependencies.
+[Better with Aether Wiki](https://better-with-aether-wiki.readthedocs.io/en/latest/)  
+[Modrinth](https://modrinth.com/mod/better-with-aether-bta), convenient way to get the mod and all its dependencies.  
 [Repository](https://github.com/bta-team-port/better-with-aether/tree/7.3), host the source code for the BWA. You may contribute or bring up any issue there. We are also availble in the main BTA discord as well the BTA Modding discord.
