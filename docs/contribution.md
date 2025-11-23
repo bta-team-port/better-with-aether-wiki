@@ -37,5 +37,13 @@ Image captions or alt text should describe their importance to the article.
 A wiki was never planned. The original goal was to port the mod to <span style="color: #9f1b07ff;">**BTA**</span> and nothing more. However over time enough the project grew aspect changed and new feature were added. When we have to explain what [pendant](items/accessories/pendant.md) do for the fifth time, we decided that it was about time to documents those features. This wiki is not meant to be an in depth explanation of any and all mechanics and aspect of <span style="color: #c48e07ff;">**Better with Aether**</span>.
 We be happy to port this wiki to an actual wiki, given enough support, but for the time being this is the best we can offer. 
 
+## Usefull links:
+https://mrkeo.github.io/setup/changing-the-colors/  
+https://www.mkdocs.org/user-guide/configuration/#theme  
+https://www.mkdocs.org/user-guide/choosing-your-theme/#mkdocs  
+https://www.mkdocs.org/user-guide/configuration/#edit_uri  
+https://encycolorpedia.com/e6e6fa  
+https://bta.miraheze.org/wiki/Better_than_Adventure!_Wiki:Style_guide  
+
 
 
