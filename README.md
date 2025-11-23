@@ -4,7 +4,7 @@
 Every legend need a sidekick. This is the official wiki repository to the legendary mod Better with Aether.
 If you find yourself here looking for the [Wiki](https://better-with-aether-wiki.readthedocs.io/en/latest/) here you go.
 
-![Paradise](docs/assets/paradise.png)
+<img width="2560" height="1009" alt="paradise small" src="https://github.com/user-attachments/assets/cefe6686-aac3-4018-ba71-afb36b8903ce" />
 
 This port focusses to align with BTA values and as such takes liberties with some of the ported features. 
 The port has strived to set itself apart and as such many things were changed, sometime small and sometimes in a big way.
