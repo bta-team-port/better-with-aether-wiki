@@ -1,22 +1,20 @@
 site_name: Better with Aether
 theme:
   name: material
-  color_mode: auto
-  user_color_mode_toggle: true
   logo: assets/bwa.svg
   favicon: assets/bwa.svg
   palette:
-    - scheme: default
-      primary: blue
-      accent: amber
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
-    - scheme: slate
-      primary: light blue
+    - scheme: aether
+      primary: #477faa
       accent: amber
       toggle:
         icon: material/weather-night
+        name: Switch to light mode
+    - scheme: slate
+      primary: #4682b4
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
         name: Switch to light mode
   features:
     - content.code.copy
