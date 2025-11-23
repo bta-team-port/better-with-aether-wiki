@@ -1,7 +1,7 @@
 # Better with Aether - Wiki
-Welcome to the official Better with Aether, community-maintained wiki.
+Welcome to the official <span style="color: #c48e07ff;">**Better with Aether**</span>, community-maintained wiki.
 
-Better with Aether offers something for everyone. Whether you like to build castles, explore the land, or conquer dangerous dungeons, there’s always an adventure waiting.
+<span style="color: #c48e07ff;">**Better with Aether**</span> offers something for everyone. Whether you like to build castles, explore the land, or conquer dangerous dungeons, there’s always an adventure waiting.
 
 To get started:
 [Better with Aether](https://modrinth.com/mod/better-with-aether-bta/version/0.13.0+7.3_04)
