@@ -1,6 +1,6 @@
 
 # Better with Aether
-
+  
 Every legend need a sidekick. This is the official wiki repository to the legendary mod Better with Aether.
 If you find yourself here looking for the [Wiki](https://better-with-aether-wiki.readthedocs.io/en/latest/) here you go.
 
