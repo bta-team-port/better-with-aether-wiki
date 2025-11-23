@@ -21,9 +21,12 @@ This wiki does not seek to replace others Aether wikis but to be a complementary
 - Added the skeleton structure of the wiki
   
 ## Thanks
-All thanks go out to the people that have contributed to this Wiki and kept it up2date. This would not be possible without you:  
+All thanks go out to the people that have contributed to this Wiki and kept it up2date. This would not be possible without you: 
+ 
 - Redart15  
-- Olypolyu  
+- Olypolyu 
+
+
 
 
 
