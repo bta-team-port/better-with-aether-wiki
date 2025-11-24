@@ -6,7 +6,7 @@ Welcome to the official **Better with Aether**, community-maintained wiki.
 To get started:
 [Better with Aether](https://modrinth.com/mod/better-with-aether-bta/version/0.13.0+7.3_04)
 
-![Paradise](images/paradise.png)
+![Paradise](assets/images/paradise.png)
 
 This wiki does not seek to replace others Aether wikis but to be a complementary lookup. As such, the wiki will focus on documenting areas where the behavior has changed compared to the original, or where content is absent from other wikis.
 

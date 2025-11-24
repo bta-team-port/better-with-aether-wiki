@@ -4,7 +4,7 @@ As such existing armor sets were expanded with resistance to the new damage type
 ## Resitance
 <div style="overflow: hidden;"> 
   <figure style="float: left; margin: 0 20px 20px 0; text-align: center;">
-    <img src="/images/resistance.png" alt="Resistance bar shown with negative resistance" style="display: block; max-width: 400px;">
+    <img src="/assets/images/resistance.png" alt="Resistance bar shown with negative resistance" style="display: block; max-width: 400px;">
     <figcaption style="font-style: italic; color: #555; font-size: 0.9em; margin-top: 5px;">
       Resistance bar showing negative lightning<br> and positive holy resistance.
     </figcaption>
