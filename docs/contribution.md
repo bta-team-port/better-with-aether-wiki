@@ -1,4 +1,4 @@
-# Contribution to the Wiki
+# Contributing to the Wiki
 On this page I will quickly go over everything you need to know to contribute to this project.
 
 ## Requirements
