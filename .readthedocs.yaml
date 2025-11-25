@@ -8,6 +8,7 @@
    jobs:
      pre_install:
        - pip install mkdocs-material
+       - pip install mkdocs-awesome-nav
 
  mkdocs:
    configuration: mkdocs.yml
