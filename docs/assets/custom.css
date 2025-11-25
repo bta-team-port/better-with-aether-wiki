@@ -12,3 +12,47 @@
     --md-default-bg-color: #e6e6fa;
     --md-default-fg-color: #0a5ed4;
 }
+
+.holy {
+    display: inline-block;
+    width: 0.93em;
+    height: 0.93em;
+    background-image: url('../../assets/images/icons/holy.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+}
+
+.lightning {
+    display: inline-block;
+    width: 0.93em;
+    height: 0.93em;
+    background-image: url('../../assets/images/icons/lightning.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+}
+
+.block {
+    display: inline-block;
+    width: 0.93em;
+    height: 0.93em;
+    background-image: url('../../assets/images/icons/block.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    position: relative;
+    top: -2px;
+}
+
+.heart {
+    display: inline-block;
+    width: 0.93em;
+    height: 0.93em;
+    background-image: url('../../assets/images/icons/heart.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    position: relative;
+    top: -2px;
+}
