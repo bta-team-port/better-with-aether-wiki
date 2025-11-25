@@ -5,6 +5,6 @@ nav:
   - items
   - entities
   - effects
-  - World_Features
+  - "World Features" : world_features
   - about.md
   
