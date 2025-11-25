@@ -23,6 +23,10 @@ theme:
 extra_css:
   - assets/custom.css
 
+plugins:
+  - search
+  - awesome-nav
+
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
