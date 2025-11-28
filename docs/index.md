@@ -19,6 +19,7 @@ This wiki does not seek to replace others Aether wikis but to be a complementary
 ## Changelog:
 - Added About, Contribution and Main page
 - Added the skeleton structure of the wiki
+- Added side for damage types and effects
   
 ## Thanks
 All thanks go out to the people that have contributed to this Wiki and kept it up2date. This would not be possible without you: 
