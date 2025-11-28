@@ -35,6 +35,9 @@ Better with Aether offers 3 new Machines the enchanter, the freezer and the incu
     </p>
 </div>
 
+<div style="text-align: left; font-size: 0.8em; color: #555; margin-top: 20px;">
+Credits: Redart15
+</div>
 
 
 
