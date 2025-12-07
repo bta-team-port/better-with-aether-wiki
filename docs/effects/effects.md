@@ -19,8 +19,8 @@ Players can be affected by two status effects: Poison and Remedy. By default, af
     </p>
 </div>
 
-<!-- I am not sure if I want to keep this table>
-<!-- <div style="text-align: center;" >
+<!-- I am not sure if I want to keep this table> -->
+<div style="text-align: center;" >
 <table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse; text-align: center; font-size: 16px;">
     <thead>
         <tr>
@@ -39,7 +39,7 @@ Players can be affected by two status effects: Poison and Remedy. By default, af
         <td style="text-align: center;">4</td>
     </tr>
  </table>
- </div> -->
+ </div>
 
 ## Remedy
 <div style="overflow: hidden;"> 

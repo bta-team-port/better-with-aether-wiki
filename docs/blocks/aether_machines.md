@@ -42,22 +42,6 @@ Better with Aether offers 3 new Machines the enchanter, the freezer and the incu
   </div>
 </div>
 
-
-<!-- <div style="overflow: hidden;"> 
-  <figure style="float: left; margin: 0 20px 0 0; text-align: center;">
-    <img src="../../assets/images/guidebook.png" alt="A section for the guidebook depicting repair recipes and a page from the freezer." style="display: block; max-width: 450px;">
-    <figcaption style="font-style: italic; color: #555; font-size: 0.9em; margin: 5px;">
-      A section for the guidebook depicting repair recipes and a page from the freezer.
-    </figcaption>
-  </figure>
-    <p style="margin-top: -5px;">
-    Keen player might have noticed marking above and below the arrow in the guidebook. Unlike the furnace every recipes requires different amount of time. Each recipes thus depicts in the guidebook how long a given recipes will take in second (s) or minuted (m).
-    </p>
-    <p>
-    Unlike the original the enchanter cannot by default repair equipment. Repairing of equipment can be turned on in the aether.cfg. This will enable the repair of any <a href="../../items/items">dungeon unique items</a>. For those recipes the duration is dynamic. The guidebook shows the maximum duration the item would take to repair from 1 durability. Items that a nearly brand new will be repaired significantly faster. Items that are brand new cannot be repaired. Repairing an item will keep it custom name and color.
-    </p>
-</div> -->
-
 <div style="text-align: left; font-size: 0.8em; color: #555; margin-top: 20px;">
 Credits: Redart15
 </div>

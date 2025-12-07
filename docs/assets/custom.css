@@ -87,10 +87,6 @@ td {
     padding: 6px;
 }
 
-tr:nth-child(even) {
-    background-color: #d8d7d7;
-}
-
 th {
     background-color: #ffffff;
 }
