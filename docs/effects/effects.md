@@ -21,6 +21,22 @@ Players can be affected by two status effects: Poison and Remedy. By default, af
 
 <!-- I am not sure if I want to keep this table> -->
 <div style="text-align: center;" >
+    <details style="border: none; padding: 0;">
+    <summary style="
+      list-style: none; 
+      cursor: pointer; 
+      font-size: 18px; 
+      font-weight: bold; 
+      display: flex; 
+      align-items: center;
+      gap: 8px;
+    ">
+      <span class="arrow" style="
+        display: inline-block; 
+        transition: transform 0.3s;
+      ">▶</span>
+      Poison Stack Values
+    </summary>
 <table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse; text-align: center; font-size: 16px;">
     <thead>
         <tr>
@@ -38,6 +54,7 @@ Players can be affected by two status effects: Poison and Remedy. By default, af
         <td style="text-align: center;">2</td>
         <td style="text-align: center;">4</td>
     </tr>
+    </details>
  </table>
  </div>
 
@@ -56,5 +73,7 @@ Players can be affected by two status effects: Poison and Remedy. By default, af
 
 
 <div style="text-align: left; font-size: 0.8em; color: #555; margin-top: 20px;">
-Credits: Redart15
+  Credits: Redart15
+  <br>
+  Last Updated: <span id="last-updated"></span>
 </div>
