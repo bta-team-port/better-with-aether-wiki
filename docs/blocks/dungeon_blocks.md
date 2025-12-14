@@ -26,3 +26,10 @@ Unlike in survival, the chest is accessible without a key in creative allowing m
 
 ## Mimic
 Mimics can be found in both the Maze and the Temple. They are indistinguishable from regular chests. Attempting to open a mimic chest will spawn a <a href="../../entities/mimic">Mimic</a>. Players cannot avoid triggering a mimic by mining the chest, however if the player has a <a href="../../items/accessories/pendant">Gold Pendant</a> equipped as well a proper axe, they can safely mine the mimic instead. When mined, the mimic drops as a block that can be picked up and placed. All items stored inside the mimic are preserved within the block.
+
+
+<div style="text-align: left; font-size: 0.8em; color: #555; margin-top: 20px;">
+  Credits: Redart15
+  <br>
+  Last Updated: <span id="last-updated"></span>
+</div>

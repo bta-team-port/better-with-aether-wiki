@@ -9,6 +9,12 @@ Given the scope of the project, we thought it would be best if there were a way 
 ## Purpose
 This wiki exist for 3 reasons:
 
-- The project first and foremost focusses to keep the same attention to detail as <span style="color: #9f1b07ff;">**BTA**</span> itself. As such changes were made to better align with these. As such features were added to blocks, items and entities that exists in <span style="color: #9f1b07ff;">**BTA**</span> but not the original <span style="color: #c48e07ff;">**Aether**</span>.   
-- The targeted version of <span style="color: #c48e07ff;">**Aether**</span> is a b1.7.3 release. Despite been a great mod, it is not perfect. There are a lot of bug that have been fixed. Some aspects of the original mod had its short comings and such were refined.  
-- Let be honest the years were not kind to <span style="color: #c48e07ff;">**Aether**</span> and it can be seen in the incomplete and mostly abandoned wikis that can be found online. This wiki does not seek to replace them but be complementary lookup. As such, the wiki will focus on documenting areas where the behavior has changed compared to the original, or where content is absent from other wikis. For everything else we going to keep this brief and more comprehensive lookup can be done at any of the other wikis [The Aether Project Wiki](https://aether.wiki.gg/) or [Aether Fandom Wiki](https://aether.fandom.com/wiki/The_Aether_I).
+- The project first and foremost focusses to keep the same attention to detail as **BTA** itself. As such changes were made to better align with these. As such features were added to blocks, items and entities that exists in **BTA** but not the original **Aether**.   
+- The targeted version of **Aether** is a b1.7.3 release. Despite been a great mod, it is not perfect. There are a lot of bug that have been fixed. Some aspects of the original mod had its short comings and such were refined.  
+- Let be honest the years were not kind to **Aether** and it can be seen in the incomplete and mostly abandoned wikis that can be found online. This wiki does not seek to replace them but be complementary lookup. As such, the wiki will focus on documenting areas where the behavior has changed compared to the original, or where content is absent from other wikis. For everything else we going to keep this brief and more comprehensive lookup can be done at any of the other wikis [The Aether Project Wiki](https://aether.wiki.gg/) or [Aether Fandom Wiki](https://aether.fandom.com/wiki/The_Aether_I).
+
+<div style="text-align: left; font-size: 0.8em; color: #555; margin-top: 20px;">
+  Credits: Redart15
+  <br>
+  Last Updated: <span id="last-updated"></span>
+</div>
