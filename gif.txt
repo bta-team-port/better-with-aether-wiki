@@ -1,0 +1,28 @@
+ffmpeg -ss 3 -t 3 -i "2025-12-14 01-07-16.mp4" -vf "fps=30,scale=720:-1:flags=lanczos,split[s0][s1];[s0]palettegen[p];[s1][p]paletteuse" -loop 0 convert.gif
+
+
+
+
+ffmpeg -i "2025-12-13 22-58-47.mp4" -filter_complex "fps=10,scale=320:-1:flags=lanczos,split [o1] [o2];[o1] palettegen [p]; [o2] fifo [o3];[o3] [p] paletteuse" out.gif
+
+
+
+ffmpeg -ss 2 -i "2025-12-13 22-58-47.mp4" -t 2 -pix_fmt rgb24 break.gif
+
+
+ffmpeg -i "2025-12-13 22-58-47.mp4" -i palette.png -vf "fps=15,scale=640:-1:flags=lanczos,paletteuse" -y break.gif
+
+
+
+ffmpeg -i "2025-12-13 22-58-47.mp4" -vf "fps=15,scale=640:-1:flags=lanczos,palettegen" palette.png
+ffmpeg -i "2025-12-13 22-58-47.mp4" -i palette.png -filter_complex "fps=15,scale=640:-1:flags=lanczos,paletteuse" output.gif
+
+
+ffmpeg -i "2025-12-13 22-58-47.mp4" -filter_complex "[0:v] fps=15,scale=640:-1:flags=lanczos,split [a][b];[a] palettegen [p];[b][p] paletteuse" -y output.gif
+
+ffmpeg -fflags +genpts -i "2025-12-13 22-58-47.mp4" -filter_complex "[0:v]setpts=N/FRAME_RATE/TB,fps=15,scale=640:-1:flags=lanczos,split[a][b];[a]palettegen[p];[b][p]paletteuse" -y output.gif
+
+
+ffmpeg -vsync 0 -i "2025-12-13 22-58-47.mp4" -vf "fps=15,scale=640:-1:flags=lanczos" test.gif
+
+
