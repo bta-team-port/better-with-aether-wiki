@@ -23,6 +23,9 @@ theme:
 extra_css:
   - assets/custom.css
 
+extra_javascript:
+  - scripts.js
+
 plugins:
   - search
   - awesome-nav

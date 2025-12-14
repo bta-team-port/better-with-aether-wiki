@@ -48,4 +48,8 @@ Color Encyclopedia: [https://encycolorpedia.com/e6e6fa](https://encycolorpedia.c
 Style Guide: [https://bta.miraheze.org/wiki/Better_than_Adventure!_Wiki:Style_guide](https://bta.miraheze.org/wiki/Better_than_Adventure!_Wiki:Style_guide)  
 
 
-
+<div style="text-align: left; font-size: 0.8em; color: #555; margin-top: 20px;">
+  Credits: Redart15
+  <br>
+  Last Updated: <span id="last-updated"></span>
+</div>
