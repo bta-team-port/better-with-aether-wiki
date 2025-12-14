@@ -11,13 +11,13 @@ Better with Aether offers 3 new Machines the enchanter, the freezer and the incu
     </figure>
     <!-- <figure style="float: left; margin: 0 20px 20px 0; text-align: center;"> -->
     <figure style="text-align: center; margin: 0;">
-      <img src="../../assets/images/guidebook.png" alt="A section for the guidebook depicting repair recipes and a page from the freezer." style="display: block; max-width: 300px;">
+      <img src="../../assets/mgif.png" alt="A section for the guidebook depicting repair recipes and a page from the freezer." style="display: block; max-width: 300px;">
       <figcaption style="font-style: italic; color: #555; font-size: 0.9em; margin: 5px;text-align: center;">
         A section for the guidebook depicting repair recipes and a page from the freezer.
       </figcaption>
     </figure>
     <figure style="text-align: center; margin: 0;">
-      <img src="../../assets/images/repair_tool.png" alt="Very slowly repairing the lightning sword." style="display: block; max-width: 300px;">
+      <img src="../../assets/mgif.png" alt="Very slowly repairing the lightning sword." style="display: block; max-width: 300px;">
       <figcaption style="font-style: italic; color: #555; font-size: 0.9em; margin: 5px;text-align: center;">
         Very slowly repairing the lightning sword. 
       </figcaption>
