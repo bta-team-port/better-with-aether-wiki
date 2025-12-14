@@ -34,7 +34,7 @@ No first or second person perspectives are to be avoided. Keep the wiki neutral 
 Image captions or alt text should describe their importance to the article.
 
 ## Why is this not hosted as a Wiki?
-A wiki was never planned. The original goal was to port the mod to **BTA** and nothing more. However over time enough the project grew aspect changed and new feature were added. When we have to explain what [pendant](items/accessories/pendant.md) do for the fifth time, we decided that it was about time to documents those features. This wiki is not meant to be an in depth explanation of any and all mechanics and aspect of **Better with Aether**.
+A wiki was never planned. The original goal was to port the mod to **BTA** and nothing more. However over time the project grew and aspect changed and new feature were added. When we have to explain what [pendant](items/accessories/pendant.md) do for the fifth time, we decided that it was about time to documents those features. This wiki is not meant to be an in depth explanation of any and all mechanics and aspect of **Better with Aether**.
 We be happy to port this wiki to an actual wiki, given enough support, but for the time being this is the best we can offer. 
 
 ## Usefull links:
