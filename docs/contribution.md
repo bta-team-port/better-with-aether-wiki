@@ -24,26 +24,28 @@ Be patient we are people to with responsibilities and lives.
 Individuals, fetted by the development team, can also submit ready made articles via discord. We wont accept any file from any unfetted individual.
 Please submit these via GitHub.
 
-Should there be any issue you can contact us on the official <span style="color: #9f1b07ff;">**BTA**</span> discord in the <span style="color: #c48e07ff;">**Better with Aether**</span> mod channel. 
+Should there be any issue you can contact us on the official **BTA** discord in the **Better with Aether** mod channel. 
 
 ## Style Guide
 This style guide is based on the [BTA-Wiki-Style](https://bta.miraheze.org/wiki/Better_than_Adventure!_Wiki:Style_guide) page. As such this will reiterate some of the more important aspects.
-The default the language is the same as <span style="color: #9f1b07ff;">**BTA**</span> as such *English (US)*. Other languages are only allowed if its a transcription.  
+The default the language is the same as **BTA** as such *English (US)*. Other languages are only allowed if its a transcription.  
 Contraction like for example "it's" and "they're" must be avoided.
 No first or second person perspectives are to be avoided. Keep the wiki neutral and do not generalize. Item, block and entity names are to be capitalized like in-game.
 Image captions or alt text should describe their importance to the article.
 
 ## Why is this not hosted as a Wiki?
-A wiki was never planned. The original goal was to port the mod to <span style="color: #9f1b07ff;">**BTA**</span> and nothing more. However over time enough the project grew aspect changed and new feature were added. When we have to explain what [pendant](items/accessories/pendant.md) do for the fifth time, we decided that it was about time to documents those features. This wiki is not meant to be an in depth explanation of any and all mechanics and aspect of <span style="color: #c48e07ff;">**Better with Aether**</span>.
+A wiki was never planned. The original goal was to port the mod to **BTA** and nothing more. However over time enough the project grew aspect changed and new feature were added. When we have to explain what [pendant](items/accessories/pendant.md) do for the fifth time, we decided that it was about time to documents those features. This wiki is not meant to be an in depth explanation of any and all mechanics and aspect of **Better with Aether**.
 We be happy to port this wiki to an actual wiki, given enough support, but for the time being this is the best we can offer. 
 
 ## Usefull links:
-https://mrkeo.github.io/setup/changing-the-colors/  
-https://www.mkdocs.org/user-guide/configuration/#theme  
-https://www.mkdocs.org/user-guide/choosing-your-theme/#mkdocs  
-https://www.mkdocs.org/user-guide/configuration/#edit_uri  
-https://encycolorpedia.com/e6e6fa  
-https://bta.miraheze.org/wiki/Better_than_Adventure!_Wiki:Style_guide  
+MkDocs docs:  
+   - [https://mrkeo.github.io/setup/changing-the-colors/](https://mrkeo.github.io/setup/changing-the-colors/)   
+   - [https://www.mkdocs.org/user-guide/configuration/#theme](https://www.mkdocs.org/user-guide/configuration/#theme)  
+   - [https://www.mkdocs.org/user-guide/choosing-your-theme/#mkdocs](https://www.mkdocs.org/user-guide/choosing-your-theme/#mkdocs)  
+   - [https://www.mkdocs.org/user-guide/configuration/#edit_uri](https://www.mkdocs.org/user-guide/configuration/#edit_uri) 
+
+Color Encyclopedia: [https://encycolorpedia.com/e6e6fa](https://encycolorpedia.com/e6e6fa)  
+Style Guide: [https://bta.miraheze.org/wiki/Better_than_Adventure!_Wiki:Style_guide](https://bta.miraheze.org/wiki/Better_than_Adventure!_Wiki:Style_guide)  
 
 
 
