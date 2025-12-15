@@ -17,7 +17,7 @@
     display: inline-block;
     width: 0.93em;
     height: 0.93em;
-    background-image: url('/assets/images/icons/holy.png');
+    background-image: url('../../assets/images/icons/holy.png');
     background-size: contain;
     background-repeat: no-repeat;
     vertical-align: middle;
