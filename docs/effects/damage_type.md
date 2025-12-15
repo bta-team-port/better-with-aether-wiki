@@ -18,14 +18,14 @@ As such existing armor sets were expanded with resistance to the new damage type
       </p>
 </div>
 
-<h2>
+<h2 markdown="1">
     <span class="holy"></span>Holy
 </h2>
 Most of sources of holy damage are related to valkyries. As such the Valkyries and their queen do primary holy damage.
 Also related items to them such as the valkyrie tool deal holy damage.
 Other items include the Holy Sword and Remedy Dart. Most armor offers positive resistance to holy damage. The notable exceptions are diamond, zanite and obsidian.
 
-<h2>
+<h2 markdown="1">
     <span class="lightning"></span>Lightning
 </h2>
 Most sources of lightning damage are from related items such Lightning Sword and Lightning knife. During the second phase of Valkyrie Queen bossfight the projectle spawned does lightning damage too.
