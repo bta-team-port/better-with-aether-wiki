@@ -12,9 +12,8 @@ dependencies = [
     "markdown~=3.2",
     "pygments~=2.16",
     "pymdown-extensions~=10.2",
-    "pymdown-extensions",
     "mkdocs-awesome-pages-plugin>=2.9"
 ]
 
 [tool.poe.tasks]
-dev = "mkdocs serve"
+dev = "mkdocs serve --livereload"
