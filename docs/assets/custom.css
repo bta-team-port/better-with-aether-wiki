@@ -17,7 +17,7 @@
     display: inline-block;
     width: 0.93em;
     height: 0.93em;
-    background-image: url('/assets/images/icons/holy.png');
+    background-image: url('../images/icons/holy.png');
     background-size: contain;
     background-repeat: no-repeat;
     vertical-align: middle;
@@ -27,7 +27,7 @@
     display: inline-block;
     width: 0.93em;
     height: 0.93em;
-    background-image: url('/assets/images/icons/lightning.png');
+    background-image: url('../images/icons/lightning.png');
     background-size: contain;
     background-repeat: no-repeat;
     vertical-align: middle;
@@ -37,7 +37,7 @@
     display: inline-block;
     width: 0.93em;
     height: 0.93em;
-    background-image: url('/assets/images/icons/block.svg');
+    background-image: url('../images/icons/block.svg');
     background-size: contain;
     background-repeat: no-repeat;
     vertical-align: middle;
@@ -49,7 +49,7 @@
     display: inline-block;
     width: 0.93em;
     height: 0.93em;
-    background-image: url('/assets/images/icons/heart.png');
+    background-image: url('../images/icons/heart.png');
     background-size: contain;
     background-repeat: no-repeat;
     vertical-align: middle;
@@ -61,7 +61,7 @@
     display: inline-block;
     width: 0.93em;
     height: 0.93em;
-    background-image: url('/assets/images/icons/heart_half.png');
+    background-image: url('../images/icons/heart_half.png');
     background-size: contain;
     background-repeat: no-repeat;
     vertical-align: middle;
