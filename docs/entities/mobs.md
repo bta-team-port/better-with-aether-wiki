@@ -66,6 +66,16 @@ Rarest colored Sheepuff is purple followed by pink.
 
 ## Monster
 ### Zephyr
+
+<div style="text-align: center; width: 100%;">
+    <figure style="display: inline-block; margin: 0 auto; text-align: center;">
+        <img src="../../assets/mpic.png" alt="The temple, a breeding ground for Zephyrs, is surrounded by them." style="display: block; max-width: 300px;">
+        <figcaption style="font-style: italic; color: #555; font-size: 0.9em; margin: 5px;">
+          The temple, a breeding ground for Zephyrs, is surrounded by them.
+        </figcaption>
+    </figure>
+</div>
+
 Zephyrs are cloud looking flying enemies found high among the clouds.
 They spawn on [White Aercloud](../blocks/blocks.md) and [Golden Aercloud](../blocks/blocks.md) scattered throughout Aether.
 Despite their size they are capable of navigating through the skies by phasing through the White and Golden Aerclouds.
@@ -85,6 +95,21 @@ Fire is also an effective option, dealing double damage.
 Alternatively, players can use [Remedy Darts](../items/tools/ranged_tools.md) to eliminate enemies quickly, thanks to their additional 6 <span class="heart"></span> of damage toward them.
 Despite these weaknesses Aechor Plant are immune to poison.
 Lastly they require daylight to spawn and despite providing light, ambroium torches prevent their spawning.
+
+<div style="display: flex; width: 100%;">
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../../assets/mpic.png" alt="Aechor Plants hiding in a field of flowers." style="display: block; max-width: 300px;">
+    <figcaption style="font-style: italic; color: #555; font-size: 0.9em; margin: 5px;">
+      Aechor Plants hiding in a field of flowers.
+  </figcaption>
+  </figure>
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../../assets/mgif.png" alt="A brood of Cockatrice herding undead an overhang." style="display: block; max-width: 300px;">
+    <figcaption style="font-style: italic; color: #555; font-size: 0.9em; margin: 5px;">
+      A brood of Cockatrice herding undead an overhang.
+  </figcaption>
+  </figure>
+</div>
 
 ### Cockatrice
 Cockatrice are hostile bird like creature that spawn in dark. 
@@ -128,42 +153,80 @@ Each dungeon houses it own suite of unique creatures. Passive and hostile mobs d
 Most of denizens do not follow conventional spawning mechanics. Instead most enemies spawned from players triggering a <a href="../../blocks/dungeon_blocks">trapped blocks</a>.
 All denizens of the dungeons are immune to poison.
 
+<div style="display: flex; width: 100%;">
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../../assets/mpic.png" alt="Sentry compare to it surrounding dungeon’s blocks." style="display: block; max-width: 300px;">
+    <figcaption style="font-style: italic; color: #555; font-size: 0.9em; margin: 5px;">
+      Sentry compare to it surrounding dungeon’s blocks.
+  </figcaption>
+  </figure>
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../../assets/mgif.png" alt="Player fighting off a hoard of Sentries." style="display: block; max-width: 300px;">
+    <figcaption style="font-style: italic; color: #555; font-size: 0.9em; margin: 5px;">
+      Player fighting off a hoard of Sentries.
+  </figcaption>
+  </figure>
+</div>
+
 ### Sentry
-Sentries are buried the floor of the bronze dungeon.
-After the trap is sprung, the Sentry begins to follow the player and explodes upon reaching them.
+Sentries are buried the floor of the [Maze](../world_features/dungeons/maze.md).
+Once the trap is triggered it spawn a block shaped mob called the Sentry.
+The Sentry begins to follow the player and explodes upon reaching them.
 Given the room's height, players can sustain heavy fall damage from repeated launches into the air.
 It is advised to wear some blast and fall protection while exploring the Maze.
 Sentries are immune to drowning and getting impalement by spikes or cacti, but otherwise take damage normally. 
 Additionally, they take double damage from pickaxes and have low health, making them easy to dispatch.
 Sentries do not spawn in peaceful mode.
 
-### Valkyrie
-Valkyries are Angle like creature livin in the [Temple](../world_features/dungeons/temple.md).
-Valkyries are usually hidden and spring forward when a trap block is triggered.
-They remain passive until the player engages them in combat.
-In combat Valkyries strike player doing holy damage.
-It is advised to have strong holy resistance against Valkyries.
-At the same time, players should avoid dealing holy damage themselves, as Valkyries only take half damage from it.
-While in combat, Valkyries will teleport around, attacking from unpredictable directions.
-Additionally Valkyries can scale fences and short walls so players cannot rely on physical barriers for safety.
-Once they are bested they will drop an victory medal.
-Ten Medals are required to fight the <a href="../../entities/boss">Valkyrie Queen</a>.
-Should you perish in combat, they will playfully tease and laugh at you, then return to a passive state.
-Valkyries are immune to damage while they are in the passive state and cannot be harmed in any way.
 
-Player can initiate a conversation with Valkyries, by right clicking them.
-Valkyries reactions vary depending on how many medals the players presents them with (right clicks with).
-Unlike sentries, they can spawn in peaceful mode.
-However player cannot them in combat and any attempt to do so will cause them to teleport away.
+### Valkyrie
+<div style="overflow: hidden;"> 
+  <figure style="float: left; margin: 0 20px 0 0; text-align: center;">
+    <img src="../../assets/mpic.png" alt="Valkyries wandering the Temples corridors. " style="display: block; max-width: 300px;">
+    <figcaption style="font-style: italic; color: #555; font-size: 0.9em; margin: 5px;">
+    Valkyries wandering the Temples corridors. 
+    </figcaption>
+  </figure>
+    <p style="margin-top: -5px;">
+    Valkyries are Angle like creature living in the [Temple](../world_features/dungeons/temple.md).
+    Usually they remain hidden and only spring forward when a trap block is triggered.
+    They remain passive until the player engages them in combat.
+    In combat Valkyries strike player doing holy damage.
+    It is advised to have strong holy resistance against Valkyries.
+    At the same time, players should avoid dealing holy damage themselves, as Valkyries only take half damage from it.
+    While in combat, Valkyries will teleport around, attacking from unpredictable directions.
+    Additionally Valkyries can scale fences and short walls so players cannot rely on physical barriers for safety.
+    Once they are bested they will drop an victory medal.
+    Ten Medals are required to fight the <a href="../../entities/boss">Valkyrie Queen</a>.
+    Should you perish in combat, they will playfully tease and laugh at you, then return to a passive state.
+    Valkyries are immune to damage while they are in the passive state and cannot be harmed in any way.
+    </p>
+    <p>
+    Player can initiate a conversation with Valkyries, by right clicking them.
+    Valkyries reactions vary depending on how many medals the players presents them with (right clicks with).
+    Unlike sentries, they can spawn in peaceful mode.
+    However player cannot engage them in combat and any attempt to do so will cause them to teleport away.
+    </p>
+</div>
 
 ### Fireminion
 Despite having a dedicated <a href="../../blocks/dungeon_blocks">trap block</a>, no such blocks spawn naturally.
 As such only their boss <a href="../../entities/boss">the Sunspirit</a> can summon them.
-During them boss fight the Sunspirit will 
+During them boss fight the Sunspirit will summon Fireminions to aid him in combat.
+They are the enslaved cousins of the Whirlies.
 Fireminion are aggressive and have true sight making them capable seeing invisible players.
 They are immune to all forms of fire damage and, despite being made of literal fire, can breathe underwater.
 In combat they deal a mixture of fire and combat damage.
 Player are advised to gear appropriately.
+
+<div style="text-align: center; width: 100%;">
+    <figure style="display: inline-block; margin: 0 auto; text-align: center;">
+        <img src="../../assets/mpic.png" alt="Fireminions aiding the Sunspirit in combat." style="display: block; max-width: 300px;">
+        <figcaption style="font-style: italic; color: #555; font-size: 0.9em; margin: 5px;">
+        Fireminions aiding the Sunspirit in combat.
+        </figcaption>
+    </figure>
+</div>
 
 ### Others
 <a href="../../entities/minic">Mimics</a> and <a href="../../entities/boss">bosses</a> are more complex and have more mechanics than other mobs. Because of this, they each have their own articles.
