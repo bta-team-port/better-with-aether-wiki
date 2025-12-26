@@ -133,17 +133,84 @@ They deal increased damage and jump higher, thus amplifying the fall damage.
 ### Whirly
 Whirlers are small tornadoes whizzing around in the aether. 
 They leave a trail of item in their path.
-Friendly Whirlies leave a trail of items in their path. They can leave behind the following items:  
- - Quicksoil (19.26%)  
- - Skyroot Log (15.6%)  
- - Aether Dirt (13.8%)  
- - Amber (12.8%)  
- - Skyroot Stick (11%)  
- - Icestone  (10%)    
- - Aechor Petal (8.26%)  
- - Ambrosium (4.59%)  
- - Zanite (3.67%)
- - Block of Enchanted Gravitite (0.91%)  
+Friendly Whirlies leave a trail of items in their path.
+<div style="text-align: center;" >
+    <details style="border: none; padding: 0;">
+    <summary style="
+      list-style: none; 
+      cursor: pointer; 
+      font-size: 18px; 
+      font-weight: bold; 
+      display: flex; 
+      align-items: center;
+      gap: 8px;
+    ">
+      <span class="arrow" style="
+        display: inline-block; 
+        transition: transform 0.3s;
+      ">▶</span> They can leave behind the following items:
+    </summary>
+<table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse; text-align: center; font-size: 16px;">
+    <thead>
+        <tr>
+            <th>Item</th>
+            <th style="text-align: center;">Chance</th>
+            <th style="text-align: center;">Quantity</th>
+        </tr>
+    </thead>
+    <tr>
+        <td style="text-align: center;">Quicksoil</td>
+        <td style="text-align: center;">19.26%</td>
+        <td style="text-align: center;">1-8</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">Skyroot Log</td>
+        <td style="text-align: center;">15.6%</td>
+        <td style="text-align: center;">1-4</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">Aether Dirt</td>
+        <td style="text-align: center;">13.8%</td>
+        <td style="text-align: center;">1-16</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">Amber</td>
+        <td style="text-align: center;">12.8%</td>
+        <td style="text-align: center;">1-4</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">Skyroot Stick</td>
+        <td style="text-align: center;">11%</td>
+        <td style="text-align: center;">1-8</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">Icestone</td>
+        <td style="text-align: center;">10%</td>
+        <td style="text-align: center;">1-8</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">Aechor Petal</td>
+        <td style="text-align: center;">8.26%</td>
+        <td style="text-align: center;">1-4</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">Ambrosium</td>
+        <td style="text-align: center;">4.59%</td>
+        <td style="text-align: center;">1-8</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">Zanite</td>
+        <td style="text-align: center;">3.67%</td>
+        <td style="text-align: center;">1-2</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">Block of Enchanted Gravitite</td>
+        <td style="text-align: center;">0.91%</td>
+        <td style="text-align: center;">1</td>
+    </tr>
+    </details>
+ </table>
+ </div>
  
 Despite being harmless player are advised not to get to close, as they can toss player around.
 Whirlies disappear in a puff of smoke after dropping a sufficient number of items.
