@@ -133,20 +133,48 @@ They deal increased damage and jump higher, thus amplifying the fall damage.
 ### Whirly
 Whirlers are small tornadoes whizzing around in the aether. 
 They leave a trail of item in their path.
-Friendly Whirlies leave a trail of items in their path. They can leave behind the following items: 
- - Block of Enchanted Gravitite
- - Zanite
- - Aechor Petal
- - Ambrosium
- - Aether Dirt
- - Icestone
- - Skyroot Stick
- - Amber
- - Skyroot Log
- - Quicksoil.
+Friendly Whirlies leave a trail of items in their path. They can leave behind the following items:  
+ - Quicksoil (19.26%)  
+ - Skyroot Log (15.6%)  
+ - Aether Dirt (13.8%)  
+ - Amber (12.8%)  
+ - Skyroot Stick (11%)  
+ - Icestone  (10%)    
+ - Aechor Petal (8.26%)  
+ - Ambrosium (4.59%)  
+ - Zanite (3.67%)
+ - Block of Enchanted Gravitite (0.91%)  
+ 
+Despite being harmless player are advised not to get to close, as they can toss player around.
+Whirlies disappear in a puff of smoke after dropping a sufficient number of items.
+They also dissolve when touching water, including rainfall.
+Otherwise, they are invincible and cannot be damaged.
+Whirlies are quite mobile capable of climbing one blocks high walls.
+When struck by lightning, they transform into Tempests.
+
+<div style="display: flex; width: 100%;">
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../../assets/mgif.png" alt="Whirly leaving behind a trail of items." style="display: block; max-width: 300px;">
+    <figcaption style="font-style: italic; color: #555; font-size: 0.9em; margin: 5px;">
+      Whirly leaving behind a trail of items.
+  </figcaption>
+  </figure>
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../../assets/mgif.png" alt="A player battles a Tempest, showcasing its ability to fling the player high and fire lightning projectiles." style="display: block; max-width: 300px;">
+    <figcaption style="font-style: italic; color: #555; font-size: 0.9em; margin: 5px;">
+      A player battles a Tempest, showcasing its ability to fling the player high and fire lightning projectiles.
+  </figcaption>
+  </figure>
+</div>
 
 ### Tempest
 Tempest are the evil twin of the Whirly.
+They require darkness to spawn and are hostile to the player.
+Tempest will attack the player doing lightning damage, as such it is advised to wear armor with lightning resistance.
+Additionally, like Whirlies, they can toss the player into the air, causing fall damage.
+When the target is out of range, they launch a lightning ball to attack.
+Like Whirlies, they also turn into smoke when they touch water.
+Tempests are immune to fire and can climb blocks up to one block high.
 
 ## Dungeons Denizens
 Each dungeon houses it own suite of unique creatures. Passive and hostile mobs do not usually spawn there.
