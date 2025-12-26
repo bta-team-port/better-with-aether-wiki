@@ -1,5 +1,8 @@
 # Effects
-Players can be affected by two status effects: Poison and Remedy. By default, affected players can see these effects in the top left corner while browsing their inventory. This can be modified in the Catalyst Effect settings. Both Poison and Remedy additionally alter the appearance of the player’s health bar, generate particles, and apply a vignette effect.
+Players can be affected by two status effects: Poison, Remedy, Invisibility and Swetty.
+By default, affected players can see these effects in the top left corner while browsing their inventory.
+This can be modified in the Catalyst Effect settings.
+Both Poison and Remedy additionally alter the appearance of the player’s health bar, generate particles, and apply a vignette effect.
 
 ## Poison
 <div style="overflow: hidden;"> 
@@ -19,7 +22,6 @@ Players can be affected by two status effects: Poison and Remedy. By default, af
     </p>
 </div>
 
-<!-- I am not sure if I want to keep this table> -->
 <div style="text-align: center;" >
     <details style="border: none; padding: 0;">
     <summary style="
@@ -67,9 +69,44 @@ Players can be affected by two status effects: Poison and Remedy. By default, af
     </figcaption>
   </figure>
     <p style="margin-top: -5px;">
-    Remedy is primarily used to protect against and cure poison. Sources of remedy include drinking a Remedy Skyroot Bucket and being hit by a Remedy Dart. Remedy lasts for 12 seconds. Unlike poison, remedy does not stack thus using it again only refreshes the duration rather than adding to it. Upon acquisition, it cleanses the player of poison, and while active, the player cannot be poisoned. Attempts to poison the player instead spawn particles. The effect only lasts 2 seconds when applied via dart.
+    Remedy is primarily used to protect against and cure poison.
+    Sources of remedy include drinking a Remedy Skyroot Bucket and being hit by a Remedy Dart.
+    Remedy lasts for 12 seconds. Unlike poison, remedy does not stack thus using it again only refreshes the duration rather than adding to it.
+    Upon acquisition, it cleanses the player of poison, and while active, the player cannot be poisoned.
+    Attempts to poison the player instead spawn particles. The effect only lasts 2 seconds when applied via dart.
     </p>
 </div>
+
+
+## Invisibility
+Invisibility turn the player nearly invisible to others.
+While invisible, player will need to be very close for mobs to notice them.
+Mobs will stop chasing invisible player once the player is more than 8 blocks away.
+Only the player remains invisible, the players armor and holding item becomes translucent instead.
+Importantly most [Dungeon Denizens](../entities/mobs.md#dungeons-denizens) have true sight can will be able to see and attack invisible player.
+This effect can currently only be applied by the  <a href="../../items/accessories/cape">Invisibility Cloak</a>.
+
+<div style="display: flex; width: 100%;">
+    <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../../assets/mpic.png" alt="An invisible Player wearing armor." style="display: block; max-width: 300px;">
+    <figcaption style="font-style: italic; color: #555; font-size: 0.9em; margin: 5px;">
+      An invisible Player wearing armor. <a href="../../entities/mob">phow</a>.
+    </figcaption>
+  </figure>
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../../assets/mpic.png" alt="Swets and Slimes ignoring the player wearing the Swet Cape and chasing the other player instead." style="display: block; max-width: 400px;">
+    <figcaption style="font-style: italic; color: #555; font-size: 0.9em; margin-top: 5px;">
+      Swets and Slimes ignoring the player wearing the Swet Cape and chasing the other player instead.
+    </figcaption>
+  </figure>
+</div>
+
+
+## Swetty
+Just like Invisibility, Swetty can only be applied by the Swet cape.
+While under the effect <a href="../../items/accessories/cape">Swets</a> and <a href="https://bta.miraheze.org/wiki/Slime">Slimes</a> will not attack the player.
+Slimes and Swets will instead target the nearerst non-swetty player.
+Players tackled by a Swet can immediately escape its grip by equipping the Cape.
 
 
 <div style="text-align: left; font-size: 0.8em; color: #555; margin-top: 20px;">
