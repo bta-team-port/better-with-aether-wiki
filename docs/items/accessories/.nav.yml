@@ -1,5 +1,6 @@
 nav:
+  - accessory.md
   - gloves.md
   - cape.md
+  - "trinket.md"
   - pendant.md
-  - "*"
